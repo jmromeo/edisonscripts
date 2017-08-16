@@ -1,8 +1,8 @@
 # Getting Started
 
 To get webcam streaming from Intel Edison to an Ubuntu server, first follow the 
-steps outlined in [Ubuntu Server](ubuntu-server), then follow the steps outlined 
-in [Intel Edison](intel-edison)
+steps outlined in [Ubuntu Server](#ubuntu-server), then follow the steps outlined 
+in [Intel Edison](#intel-edison)
 
 ## Ubuntu Server
 
